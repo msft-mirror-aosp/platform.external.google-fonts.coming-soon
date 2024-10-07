@@ -33,3 +33,11 @@ prebuilt_font {
     name: "ComingSoon.ttf",
     src: "ComingSoon.ttf",
 }
+
+filegroup {
+    name: "ComingSoon",
+    srcs: ["font_config.json"],
+    required: [
+        "ComingSoon.ttf",
+    ],
+}

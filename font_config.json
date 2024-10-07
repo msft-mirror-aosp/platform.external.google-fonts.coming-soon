@@ -1,0 +1,13 @@
+[
+    {
+        "name": "casual",
+        "fonts": [
+            {
+                "file": "ComingSoon.ttf",
+                "postScriptName": "ComingSoon-Regular",
+                "weight": "400",
+                "style": "normal"
+            }
+        ]
+    }
+]
